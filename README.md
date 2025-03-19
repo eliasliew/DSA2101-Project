@@ -1,7 +1,7 @@
 # DSA2101-Project
-Data analysis and visualization for DSA2101
+Unlocking Patterns: Data Analysis and Visualization for DSA2101
 
-Contributors:
+Team Members:
 
 Ryan Ng Jek Hian
 
